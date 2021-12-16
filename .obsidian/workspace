@@ -91,6 +91,39 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "06876e6a67e39d33",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Radiology/Radiation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "75cb6a8a7e6bca6f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fd2d8393d8343f6f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Radiology/Radiation.md"
+              }
+            }
           }
         ]
       }

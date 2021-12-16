@@ -1,4 +1,6 @@
 {
   "newFileLocation": "current",
-  "attachmentFolderPath": "Meta/attachments"
+  "attachmentFolderPath": "Meta/attachments",
+  "foldHeading": true,
+  "foldIndent": true
 }
