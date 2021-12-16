@@ -1,0 +1,111 @@
+{
+  "main": {
+    "id": "53d0f8c17b7eba27",
+    "type": "split",
+    "children": [
+      {
+        "id": "64e922d91bd5f1a8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ECG.md",
+            "mode": "source"
+          }
+        },
+        "group": "c87dc065786562a1"
+      },
+      {
+        "id": "b33b650608d48bc6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ECG.md",
+            "mode": "preview"
+          }
+        },
+        "group": "c87dc065786562a1"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e20b2b591c1c1c04",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebbdc8a83ec7e7f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "392aa3f3af0a95e1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a9d479e1bd4e6baa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b68abc3542280650",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7283c58a0d5bf5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b97c327b283231c7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ECG.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "64e922d91bd5f1a8",
+  "lastOpenFiles": [
+    "ECG.md",
+    "Cardiology/index (cardio).md",
+    "Meta/templates/neuro_template.md",
+    "Meta/templates/cardio_template.md",
+    "Meta/templates/date-time.md",
+    "Meta/templates/cardio_template 1.md"
+  ]
+}

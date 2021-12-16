@@ -1,0 +1,7 @@
+.cm-strong, .markdown-preview-view strong {
+    color: #5FB060;
+}
+
+i, em, span.cm-em {
+    color: #ffd300;
+}
