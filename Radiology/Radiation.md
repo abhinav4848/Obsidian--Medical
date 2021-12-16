@@ -4,7 +4,7 @@ tags: radiology
 ---
 
 ## X-Ray
-Father of X-Ray: William Roentgen
+Father of X-Ray: William Roentgen [ECG](Cardiology/ECG.md)
 Date discovered: 8th Nov, 1895 (International Radiology day)
 
 X-Ray wavelength: 0.01nm to 10nm
@@ -140,5 +140,5 @@ Determines total no. of photons in x-ray beam.
 
 **Affects**:
 Radiographic image by determining the image contrast (*directly*)
-	Low mass: Low contrast
-	High mass: High contrast
+-	Low mass: Low contrast
+-	High mass: High contrast

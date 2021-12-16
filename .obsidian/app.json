@@ -2,5 +2,9 @@
   "newFileLocation": "current",
   "attachmentFolderPath": "Meta/attachments",
   "foldHeading": true,
-  "foldIndent": true
+  "foldIndent": true,
+  "showUnsupportedFiles": false,
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": true,
+  "alwaysUpdateLinks": true
 }
