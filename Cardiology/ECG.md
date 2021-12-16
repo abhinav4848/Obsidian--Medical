@@ -2,12 +2,7 @@
 alias: 
 tags: cardiology
 ---
-```
-Date: 30-11-2021 (Tuesday)
-Time: 23:41
-```
-
-## ECG Paper
+## ECG Strip
 The standard paper speed is 25mm/sec:
 -   1mm (_small square_) = 0.04 sec (40ms)
 -   5mm (_large square_) = 0.2 sec (200ms)
