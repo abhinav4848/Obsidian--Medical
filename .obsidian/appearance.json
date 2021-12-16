@@ -1,5 +1,7 @@
 {
-  "baseFontSize": 18,
-  "enabledCssSnippets": [],
+  "baseFontSize": 19,
+  "enabledCssSnippets": [
+    "colors"
+  ],
   "cssTheme": "Cybertron"
 }

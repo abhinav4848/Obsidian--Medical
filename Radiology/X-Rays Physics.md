@@ -8,7 +8,7 @@ tags: radiology
 **Energy content**: 100eV to 100keV.
 
 ## Electron charges
-A K-shell electron is a bound electron, and a free ekectron has zero energy. To make this bound K-shell electron go free, 70eV energy was provided. Let original energy of electron be x, and giving it 70eV made the energy of electron go to zero. So this x energy of electron was: `x+70 = 0`. So, `x = -70eV`.
+A K-shell electron is a bound electron, and a free electron has zero energy. To make this bound K-shell electron go free, 70eV energy was provided. Let original energy of electron be x, and giving it 70eV made the energy of electron go to zero. So this x energy of electron was: `x+70 = 0`. So, `x = -70eV`.
 
 Similarly,
 

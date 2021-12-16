@@ -6,7 +6,7 @@
       {
         "id": "64e922d91bd5f1a8",
         "type": "leaf",
-        "dimension": 46.51162790697674,
+        "dimension": 50,
         "state": {
           "type": "markdown",
           "state": {
@@ -14,12 +14,12 @@
             "mode": "source"
           }
         },
-        "group": "0d1aeecbb7411161"
+        "group": "6d83562f1ce62c7c"
       },
       {
-        "id": "f47376f336e4bf10",
+        "id": "cbb81ebf432ff13c",
         "type": "leaf",
-        "dimension": 53.48837209302325,
+        "dimension": 50,
         "state": {
           "type": "markdown",
           "state": {
@@ -27,7 +27,7 @@
             "mode": "preview"
           }
         },
-        "group": "0d1aeecbb7411161"
+        "group": "6d83562f1ce62c7c"
       }
     ],
     "direction": "vertical"
@@ -67,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 243
   },
   "right": {
     "id": "b68abc3542280650",
@@ -137,12 +137,12 @@
   "active": "64e922d91bd5f1a8",
   "lastOpenFiles": [
     "ReadMe.md",
-    "Radiology/X-Rays Physics.md",
-    "Radiology/Radiation Units.md",
     "Radiology/Radiation Safety.md",
-    "Radiology/10 day rule-Radiation.md",
-    "MOCs/Radiology MOC.md",
+    "Radiology/Radiation Units.md",
     "MOCs/Cardiology MOC.md",
+    "MOCs/Radiology MOC.md",
+    "Radiology/X-Rays Physics.md",
+    "Radiology/10 day rule-Radiation.md",
     "Cardiology/ECG.md",
     "00 Meta/templates/neuro_template.md",
     "00 Meta/templates/radio_template.md"
