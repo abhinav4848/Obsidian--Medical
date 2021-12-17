@@ -15,7 +15,7 @@ See: [Radiation Units](Radiation%20Units.md)
 | GIT     | 6-10 Gy   | Within 2 weeks                     |
 | CNS/CVS | 20 Gy     | Circulatory collapse/Increased ICT |
 
-![10 day rule-Radiation](10%20day%20rule-Radiation.md)
+[10 day rule-Radiation](10%20day%20rule-Radiation.md)
 
 ## Exposure
 **Danger**: CT/PET/Radionucleide

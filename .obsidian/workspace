@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ReadMe.md",
+            "file": "Radiology/CT Scan.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ReadMe.md",
+            "file": "Radiology/CT Scan.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ReadMe.md",
+                "file": "Radiology/CT Scan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ReadMe.md",
+                "file": "Radiology/CT Scan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ReadMe.md"
+                "file": "Radiology/CT Scan.md"
               }
             }
           }
@@ -136,15 +136,15 @@
   },
   "active": "64e922d91bd5f1a8",
   "lastOpenFiles": [
+    "Radiology/CT Scan.md",
+    "Radiology/Radiation Safety.md",
+    "Radiology/10 day rule-Radiation.md",
     "ReadMe.md",
     "MOCs/Radiology MOC.md",
     "MOCs/Cardiology MOC.md",
-    "Radiology/Radiation Safety.md",
     "Radiology/Radiation Units.md",
     "Radiology/X-Rays Physics.md",
-    "Radiology/10 day rule-Radiation.md",
     "Cardiology/ECG.md",
-    "00 Meta/templates/neuro_template.md",
-    "00 Meta/templates/radio_template.md"
+    "00 Meta/templates/neuro_template.md"
   ]
 }
