@@ -7,9 +7,9 @@ tags: radiology
 Computed
 Tomography: A modality which gives cross sectional imaging.
 
-Invented by Sir Godfrey Hounsfield
+Invented by **Sir Godfrey Hounsfield**
 Invented the 1st gen CT scanner/EMI Scanner.
-Hounsfield unit scale (Hu scale/CT value scale).
+**Hounsfield unit scale** (Hu scale/CT value scale).
 Nobel award along with Alan Cormack in 1979.
 
 ## CT Parts
@@ -57,4 +57,5 @@ A complete ring of detectors which are stationary. The only rotating structure i
 No moving component in this machine. Electron gun/emitter emits high velocity stream of electrons which strike a Tungsten target ring around the patient. This produces X-rays which transmit through the patient's body. Fastest machine device till date. Used for heart which beats fast. 
 
 ### Helical CT/Spiral CT
+#todo
 Problem associated with third and 4th generation scanners. Chance for short circuit from the high voltage cables to avoid this one rotation of allowed at a time and Cuba finished off. This had to be repeated several times for slice by slice acquisition. Rotation was made possible by the introduction of slip ring technology. Two rings were used. Which slipped over one another. Outer ring stationary High voltage cables were attached to it in a ring mobile X-ray tube mounted on it. The inner ring by a brush. Contractors. The table on which the patient is lying is moving at the same time X-ray tube is also rotating around the patients body, hence called spiral slash helical CT. Sophie Dee Cone shaped. A cone beam can acquire multiple slices in one cut. Fifteen 64128. Faster a coefficient possible.
