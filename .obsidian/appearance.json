@@ -1,7 +1,6 @@
 {
-  "baseFontSize": 19,
-  "enabledCssSnippets": [
-    "colors"
-  ],
-  "cssTheme": "Cybertron"
+  "baseFontSize": 10,
+  "enabledCssSnippets": [],
+  "cssTheme": "Deep Work",
+  "translucency": false
 }

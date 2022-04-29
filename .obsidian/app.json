@@ -4,7 +4,9 @@
   "foldHeading": true,
   "foldIndent": true,
   "showUnsupportedFiles": false,
-  "newLinkFormat": "relative",
-  "useMarkdownLinks": true,
-  "alwaysUpdateLinks": true
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": false,
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "source",
+  "legacyEditor": false
 }

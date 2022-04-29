@@ -4,30 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "64e922d91bd5f1a8",
+        "id": "d4a63c2069998415",
         "type": "leaf",
-        "dimension": 50,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Radiology/CT Scan.md",
-            "mode": "source"
+            "file": "00 Meta/templates/muscle_template.md",
+            "mode": "source",
+            "source": false
           }
-        },
-        "group": "6d83562f1ce62c7c"
-      },
-      {
-        "id": "cbb81ebf432ff13c",
-        "type": "leaf",
-        "dimension": 50,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Radiology/CT Scan.md",
-            "mode": "preview"
-          }
-        },
-        "group": "6d83562f1ce62c7c"
+        }
       }
     ],
     "direction": "vertical"
@@ -54,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "median",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Radiology/CT Scan.md",
+                "file": "00 Meta/templates/muscle_template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Radiology/CT Scan.md",
+                "file": "00 Meta/templates/muscle_template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Radiology/CT Scan.md"
+                "file": "00 Meta/templates/muscle_template.md"
               }
             }
           }
@@ -134,17 +120,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cbb81ebf432ff13c",
+  "active": "d4a63c2069998415",
   "lastOpenFiles": [
-    "Radiology/CT Scan.md",
-    "Radiology/Radiation Safety.md",
-    "Radiology/10 day rule-Radiation.md",
-    "ReadMe.md",
-    "MOCs/Radiology MOC.md",
-    "MOCs/Cardiology MOC.md",
-    "Radiology/Radiation Units.md",
-    "Radiology/X-Rays Physics.md",
-    "Cardiology/ECG.md",
-    "00 Meta/templates/neuro_template.md"
+    "00 Meta/templates/muscle_template.md",
+    "00 Meta/templates/vessel_template.md",
+    "00 Meta/templates/radio_template.md",
+    "00 Meta/templates/neuro_template.md",
+    "Anatomy/median nerve.md",
+    "Anatomy/anatomical triangles.md",
+    "Anatomy/Hepatobiliary triangle.md",
+    "00 Meta/templates/metadata_template.md",
+    "Anatomy/cystic artery.md",
+    "Anatomy/deep peroneal nerve.md"
   ]
 }
