@@ -1,14 +1,17 @@
+---
+alias: 
+tag: anatomy, muscle, 
+---
+
 # <% tp.file.title %><% tp.file.cursor(0) %>
 
-Supplied by: 
-
-origin: 
+**Supplied by**: 
 
 
-insertion: 
+**Origin**: 
 
 
+**Insertion**: 
 
-**Branches into**: 
 
-**Supplies**: 
+**Action**: 
