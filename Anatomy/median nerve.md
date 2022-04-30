@@ -9,6 +9,8 @@ tag: anatomy, nerve,
 **Branches**: 
 Upper arm:No branches
 
+![](https://d16qt3wv6xm098.cloudfront.net/LgYmNtgjSyCE6Ehypmzd3haxRmaFzC_N/_.png)
+
 Forearm:
 	Pronator teres  
 	Pronator quadratus  
@@ -24,7 +26,7 @@ Distal forearm:
 **Nerve root values**: 
 
 **Muscles innervated**: 
-Motor supply (LOAF)  
+Motor supply (LOAF)  #mnemonic
 -   Lateral 2 lumbricals
 -   Opponens pollicis
 -   Abductor pollicis brevis
