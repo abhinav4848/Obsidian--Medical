@@ -7,7 +7,7 @@ tag: anatomy, nerve,
 **Branch of**: 
 
 **Branches**: 
-Upper arm:No branches
+Upper arm: No branches
 
 ![](https://d16qt3wv6xm098.cloudfront.net/LgYmNtgjSyCE6Ehypmzd3haxRmaFzC_N/_.png)
 
