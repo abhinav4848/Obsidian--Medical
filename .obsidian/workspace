@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Anatomy/tongue.md",
+            "file": "Anatomy/median nerve.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anatomy/tongue.md",
+                "file": "Anatomy/median nerve.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anatomy/tongue.md",
+                "file": "Anatomy/median nerve.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anatomy/tongue.md"
+                "file": "Anatomy/median nerve.md"
               }
             }
           }
@@ -122,6 +122,7 @@
   },
   "active": "d4a63c2069998415",
   "lastOpenFiles": [
+    "Anatomy/median nerve.md",
     "Anatomy/tongue.md",
     "Anatomy/mandibular nerve.md",
     "Anatomy/anatomical triangles.md",
@@ -129,7 +130,6 @@
     "00 Meta/templates/vessel_template.md",
     "00 Meta/templates/radio_template.md",
     "00 Meta/templates/neuro_template.md",
-    "Anatomy/median nerve.md",
     "Anatomy/Hepatobiliary triangle.md",
     "00 Meta/templates/metadata_template.md"
   ]
