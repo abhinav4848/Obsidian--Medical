@@ -4,14 +4,16 @@ tag: anatomy, nerve,
 ---
 # <% tp.file.title %><% tp.file.cursor(0) %>
 
-**Branch of**: 
+## Branch of: 
 
-**Branches**: 
+## Nerve root values: 
 
-**Nerve root values**: 
+## Branches: 
 
-**Muscles innervated**: 
+## Muscles innervated: 
 
-**Cutaneous innervation**: 
+## Cutaneous innervation: 
 
-**Actions**: 
+## Actions: 
+
+## References
