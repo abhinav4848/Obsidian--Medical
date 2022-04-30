@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Anatomy/median nerve.md",
+            "file": "Cardiology/ECG.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anatomy/median nerve.md",
+                "file": "Cardiology/ECG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anatomy/median nerve.md",
+                "file": "Cardiology/ECG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anatomy/median nerve.md"
+                "file": "Cardiology/ECG.md"
               }
             }
           }
@@ -122,15 +122,15 @@
   },
   "active": "d4a63c2069998415",
   "lastOpenFiles": [
+    "Cardiology/ECG.md",
     "Anatomy/median nerve.md",
     "Anatomy/tongue.md",
+    "Anatomy/mandibular nerve.md",
     "Anatomy/cystic artery.md",
     "Anatomy/Hepatobiliary triangle.md",
     "00 Meta/templates/nerve_template.md",
     "Radiology/10 day rule-Radiation.md",
-    "Anatomy/mandibular nerve.md",
     "Anatomy/anatomical triangles.md",
-    "00 Meta/templates/muscle_template.md",
-    "00 Meta/templates/vessel_template.md"
+    "00 Meta/templates/muscle_template.md"
   ]
 }
