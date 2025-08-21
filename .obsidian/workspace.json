@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anatomy/tongue.md",
+                "file": "Cardiology/ECG.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tongue"
+              "title": "ECG"
             }
           }
         ]
@@ -169,11 +169,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a0f5b86cd7383c44",
+  "active": "e16e42040af4da23",
   "lastOpenFiles": [
-    "Anatomy/median nerve.md",
-    "Anatomy/tongue.md",
+    "MOCs/Cardiology MOC.md",
+    "MOCs/Radiology MOC.md",
     "Anatomy/mandibular nerve.md",
-    "Anatomy/Hepatobiliary triangle.md"
+    "Anatomy/deep peroneal nerve.md",
+    "Anatomy/cystic artery.md",
+    "Anatomy/common peroneal nerve.md",
+    "Anatomy/Hepatobiliary triangle.md",
+    "Anatomy/tongue.md",
+    "Anatomy/median nerve.md"
   ]
 }
